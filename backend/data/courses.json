@@ -1,0 +1,70 @@
+[
+  {
+    "id": "C001",
+    "name": "React Basics"
+  },
+  {
+    "id": "C002",
+    "name": "Node.js for Beginners"
+  },
+  {
+    "id": "C003",
+    "name": "Advanced JavaScript"
+  },
+  {
+    "id": "C004",
+    "name": "Python for Data Science"
+  },
+  {
+    "id": "C005",
+    "name": "Machine Learning Essentials"
+  },
+  {
+    "id": "C006",
+    "name": "Introduction to Databases"
+  },
+  {
+    "id": "C007",
+    "name": "Cloud Computing with AWS"
+  },
+  {
+    "id": "C008",
+    "name": "Web Development with HTML and CSS"
+  },
+  {
+    "id": "C009",
+    "name": "Cybersecurity Basics"
+  },
+  {
+    "id": "C010",
+    "name": "Git and Version Control"
+  },
+  {
+    "id": "C011",
+    "name": "Full-Stack Development with MERN"
+  },
+  {
+    "id": "C012",
+    "name": "UI/UX Design Principles"
+  },
+  {
+    "id": "C013",
+    "name": "Mobile App Development with Flutter"
+  },
+  {
+    "id": "C014",
+    "name": "DevOps and CI/CD Pipelines"
+  },
+  {
+    "id": "C015",
+    "name": "Artificial Intelligence Foundations"
+  },
+  {
+    "id": "C016",
+    "name": "Kubernetes for Beginners"
+  },
+  {
+    "id": "C017",
+    "name": "Docker for DevOps"
+  }
+]
